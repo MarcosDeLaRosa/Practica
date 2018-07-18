@@ -1,0 +1,84 @@
+.car{
+    margin-top: 50px;
+    max-width: 30%;
+    border:1px;
+    border-radius: 1px;
+    padding: 10px;
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");  
+}
+
+.exit{
+    background-color: #bce8f1;
+    padding-right:50px;
+    margin: 0px 30px 30px;
+    width: 100px;
+    height: 30px;
+    color: #3c3c3c;
+ -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.exit:hover {
+    background-color: #fff; 
+    color: #31b0d5;
+}
+
+.menssage{
+    color:#d43f3a;
+}
+
+.username{
+    color: #fff;
+}
+
+.button{
+    background-color: #28a4c9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #3c3c3c; 
+    color: white;
+}
+
+
+body{
+     background-image: url("http://www.grandespymes.com.ar/wp-content/uploads/2016/07/gestion.edsd_.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     overflow: scroll;
+     background-position: center center;
+     background-size: cover;
+}
+
+.conten{
+    margin-left: 20px;
+    
+}
+
+.while{
+    background-color: #fff;
+    width: 1250px;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 10px;
+}
+
+.table{
+    font-size: small; 
+}
+
+.thumb{
+    max-width: 99%;
+}
